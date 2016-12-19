@@ -1,6 +1,6 @@
 Apply with the following info:
 
-* Full name:
+* Full name: Andre Boccoli
 * Email address:
 * What's your startup about? (AI, AR/VR, bitcoin, IoT, robotics only)
 * Business summary:
